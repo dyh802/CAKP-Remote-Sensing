@@ -1,0 +1,18 @@
+{
+  "baseball_diamond": "a satellite image of baseball_diamond with a compact diamond-shaped infield and surrounding open play area, different from stadium by weaker spectator enclosure and from ground_track_field by lacking an oval running track.",
+  "beach": "a satellite image of beach with bright coastal sand and a distinct shoreline, different from desert by direct land-water contact and from harbor by lacking organized docks.",
+  "bridge": "a satellite image of bridge with a narrow man-made crossing over water or land, different from overpass by weaker road-over-road elevation and from freeway by lacking a long traffic corridor.",
+  "dense_residential": "a satellite image of dense_residential with highly compact roof distribution and very small spacing between buildings, different from sparse_residential by much denser neighborhood organization.",
+  "desert": "a satellite image of desert with dry homogeneous barren texture and very limited vegetation, different from beach by lacking water-connected shoreline.",
+  "forest": "a satellite image of forest with continuous dense canopy and dark green natural texture, different from meadow by stronger canopy continuity and from wetland by weaker visible water fragmentation.",
+  "harbor": "a satellite image of harbor with waterfront docks, vessels, and port-like shore structures, different from bridge by lacking a simple crossing form and from parking_lot by strong maritime context.",
+  "intersection": "a satellite image of intersection with multiple roads crossing at a compact node, different from roundabout by lacking a circular center and from overpass by weaker layered elevation.",
+  "meadow": "a satellite image of meadow with open grass-covered land and soft natural vegetation texture, different from forest by lacking dense canopy and from rectangular_farmland by lacking regular cultivated parcels.",
+  "overpass": "a satellite image of overpass with elevated crossing and clear grade separation, different from bridge by stronger road-over-road pattern and from intersection by stronger elevated overlap.",
+  "parking_lot": "a satellite image of parking_lot with broad paved ground and regular parked-vehicle rows, different from industrial_area by lacking dense factory compounds and from harbor by lacking water-adjacent docks.",
+  "railway": "a satellite image of railway with long parallel tracks and linear rail transport pattern, different from railway_station by lacking concentrated station structures and from bridge by lacking a localized crossing shape.",
+  "river": "a satellite image of river with continuous elongated water flow and visible banks, different from lake by more linear channel geometry and from wetland by clearer continuous channel structure.",
+  "sparse_residential": "a satellite image of sparse_residential with widely separated houses and large open gaps, different from dense_residential by far lower roof density and from mobile_home_park by lacking uniform trailer-like rows.",
+  "stadium": "a satellite image of stadium with a prominent sports venue and stronger enclosing structure, different from baseball_diamond by larger scale and from ground_track_field by stronger venue framing.",
+  "storage_tank": "a satellite image of storage_tank with regular circular tank clusters and strong round industrial geometry, different from industrial_area by circular-container dominance and from church by lacking landmark-building structure."
+}

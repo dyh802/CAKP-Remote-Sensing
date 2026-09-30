@@ -1,0 +1,23 @@
+{
+  "agricultural": "broad cultivated land with regular field texture and open farmland layout.",
+  "airplane": "visible aircraft body with wings and tail, compact object-level structure, and clear airplane contours.",
+  "baseballdiamond": "compact sports field with a distinct diamond-shaped infield.",
+  "beach": "bright shoreline region with a clear sand-water boundary.",
+  "buildings": "large roofed man-made structures with block-like geometry and organized built-up layout.",
+  "chaparral": "irregular dry shrub-covered terrain with coarse natural texture and sparse woody vegetation.",
+  "denseresidential": "tightly packed residential roofs with very high housing density and minimal spacing.",
+  "forest": "dense continuous tree canopy with natural dark-green texture.",
+  "freeway": "wide multi-lane transportation corridor with continuous road surface and branching traffic structure.",
+  "golfcourse": "well-maintained green fairways with landscaped grass regions and designed open-course layout.",
+  "harbor": "waterfront port area with docks, vessels, and shore-adjacent infrastructure.",
+  "intersection": "road crossing region where multiple transportation lines meet.",
+  "mediumresidential": "moderately spaced residential buildings with visible yards and balanced housing density.",
+  "mobilehomepark": "repetitive small elongated housing units arranged in orderly rows.",
+  "overpass": "elevated crossing transport structure with visible grade separation.",
+  "parkinglot": "large open paved area with organized parking spaces and vehicle-oriented layout.",
+  "river": "elongated natural watercourse with continuous channel shape and visible banks.",
+  "runway": "long straight paved strip with elongated linear geometry and open surroundings.",
+  "sparseresidential": "widely separated residential houses with large open gaps and low housing density.",
+  "storagetanks": "large circular or cylindrical industrial containers with highly regular round geometry.",
+  "tenniscourt": "small rectangular court surfaces with clear line markings and repeated sports-court geometry."
+}

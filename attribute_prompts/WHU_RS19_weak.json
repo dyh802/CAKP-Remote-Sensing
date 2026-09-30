@@ -1,0 +1,21 @@
+{
+  "airport": "a satellite image of airport, not railwaystation.",
+  "beach": "a satellite image of beach, not river.",
+  "bridge": "a satellite image of bridge, not viaduct.",
+  "commercial": "a satellite image of commercial, not parking.",
+  "desert": "a satellite image of desert, not farmland.",
+  "farmland": "a satellite image of farmland, not desert.",
+  "footballfield": "a satellite image of footballfield, not meadow.",
+  "forest": "a satellite image of forest, not mountain.",
+  "industrial": "a satellite image of industrial, not parking.",
+  "meadow": "a satellite image of meadow, not footballfield.",
+  "mountain": "a satellite image of mountain, not forest.",
+  "park": "a satellite image of park, not pond.",
+  "parking": "a satellite image of parking, not commercial.",
+  "pond": "a satellite image of pond, not river.",
+  "port": "a satellite image of port, not parking.",
+  "railwaystation": "a satellite image of railwaystation, not airport.",
+  "residential": "a satellite image of residential, not commercial.",
+  "river": "a satellite image of river, not pond.",
+  "viaduct": "a satellite image of viaduct, not bridge."
+}

@@ -1,0 +1,21 @@
+{
+  "airport": "large aviation area with broad paved runways and airport-related facilities.",
+  "beach": "bright shoreline region with clear sand-water boundary and open coastal texture.",
+  "bridge": "narrow man-made crossing structure spanning water or land.",
+  "commercial": "dense urban business area with organized building blocks and road access.",
+  "desert": "broad barren area with dry homogeneous texture and very little vegetation.",
+  "farmland": "regular cultivated land with visible parcel boundaries and agricultural texture.",
+  "footballfield": "sports ground with a clear rectangular playing field and organized athletic layout.",
+  "forest": "dense continuous tree canopy with natural dark-green texture.",
+  "industrial": "large factory-like compounds with utilitarian building layouts and heavy infrastructure.",
+  "meadow": "broad natural grass-covered open area with soft vegetation texture and weak structural boundaries.",
+  "mountain": "rugged elevated terrain with clear relief, slope variation, and irregular topographic texture.",
+  "park": "planned green open space with vegetation, paths, and leisure-oriented organization.",
+  "parking": "large open paved area with organized parking rows and vehicle-oriented layout.",
+  "pond": "small enclosed water body with compact water shape and clear boundary.",
+  "port": "waterfront transport area with docks, vessels, and shore-adjacent infrastructure.",
+  "railwaystation": "transport hub with concentrated rail lines and station-related structures.",
+  "residential": "housing area with repeated roof patterns and neighborhood street organization.",
+  "river": "elongated natural watercourse with continuous winding channel and visible banks.",
+  "viaduct": "elongated elevated transport structure with clear grade-separated roadway form."
+}

@@ -1,0 +1,23 @@
+{
+  "agricultural": "a satellite image of agricultural, not golfcourse.",
+  "airplane": "a satellite image of airplane, not runway.",
+  "baseballdiamond": "a satellite image of baseballdiamond, not tenniscourt.",
+  "beach": "a satellite image of beach, not harbor.",
+  "buildings": "a satellite image of buildings, not denseresidential.",
+  "chaparral": "a satellite image of chaparral, not agricultural.",
+  "denseresidential": "a satellite image of denseresidential, not mobilehomepark.",
+  "forest": "a satellite image of forest, not agricultural.",
+  "freeway": "a satellite image of freeway, not overpass.",
+  "golfcourse": "a satellite image of golfcourse, not agricultural.",
+  "harbor": "a satellite image of harbor, not beach.",
+  "intersection": "a satellite image of intersection, not freeway.",
+  "mediumresidential": "a satellite image of mediumresidential, not denseresidential.",
+  "mobilehomepark": "a satellite image of mobilehomepark, not denseresidential.",
+  "overpass": "a satellite image of overpass, not freeway.",
+  "parkinglot": "a satellite image of parkinglot, not buildings.",
+  "river": "a satellite image of river, not intersection.",
+  "runway": "a satellite image of runway, not airplane.",
+  "sparseresidential": "a satellite image of sparseresidential, not denseresidential.",
+  "storagetanks": "a satellite image of storagetanks, not harbor.",
+  "tenniscourt": "a satellite image of tenniscourt, not baseballdiamond."
+}

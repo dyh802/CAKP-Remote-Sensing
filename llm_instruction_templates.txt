@@ -1,0 +1,5 @@
+T1: Generate visual cues that help distinguish [CLASS] from visually similar remote sensing scenes. Focus on object layout, scene structure, texture, spatial pattern, and surrounding context.
+
+T2: Describe representative visual attributes of [CLASS] in remote sensing images. Focus on shape, texture, color, structure, scale, object distribution, and surrounding context.
+
+T3: Target class: [CLASS]. Scored confusing classes: [CLS:SCORE]. Refine [INITIAL CUES] by highlighting score-weighted differences from confusing classes.
