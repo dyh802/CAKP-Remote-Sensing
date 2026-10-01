@@ -100,6 +100,18 @@ The LLM instruction templates used to construct these prompts are provided in:
 ```text
 llm_instruction_templates.txt
 ```
+
+## Data and Materials License
+
+The generated knowledge prompt files, LLM instruction templates, and related
+research materials in this repository are made available under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0). See
+`LICENSE-DATA.md` for details.
+
+The source code is provided for research and reproducibility purposes. Parts of
+the code are adapted from the official PromptSRC repository and follow the
+licence terms of the original project.
+
 ## Knowledge Prompt Files
 
 The knowledge prompt files are JSON dictionaries. Each key is a class name and each value is the generated textual knowledge prompt for that class. These prompts may include semantic attributes and confusion-aware discriminative cues.
